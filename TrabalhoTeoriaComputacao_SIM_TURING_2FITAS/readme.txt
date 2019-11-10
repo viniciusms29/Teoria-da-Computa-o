@@ -1,6 +1,5 @@
-﻿Aluno: 	Vinícius Morais dos Santos --- 0002864
-Aluno:	Vinícius Alves de Araújo   --- 0011941
-	7º Periodo - CC
+﻿Aluno: 	Vinícius Morais dos Santos
+Aluno:	Vinícius Alves de Araújo 
 
 	Para a execução: python3 simturing.py palindrome.mt
 					 	ou
