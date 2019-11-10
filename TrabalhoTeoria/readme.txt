@@ -1,6 +1,6 @@
-Aluno: 	Vinícius Morais dos Santos --- 0002864
-	5º Periodo - CC
+Aluno: 	VinÃ­cius Morais dos Santos
+	Simulador de maquina de Turing de 1 fita
 
-	Para a execução: python3 simturing.py palindrome.mt
+	Para a execuÃ§Ã£o: python3 simturing.py palindrome.mt
 			ou
 			 python3 simturing.py -v -h "()" -s 100 palindrome.mt
